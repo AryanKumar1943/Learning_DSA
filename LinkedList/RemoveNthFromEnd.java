@@ -1,5 +1,9 @@
 public class RemoveNthFromEnd
 {
+
+    boolean CheckPalindrome() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
     public static class Node
     {
         int data;
